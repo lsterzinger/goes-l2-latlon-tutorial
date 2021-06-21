@@ -1,0 +1,8 @@
+name: goes-latlon
+channels:
+        - conda-forge
+dependencies:
+        - python
+        - matplotlib
+        - xarray
+        - s3fs
