@@ -8,3 +8,4 @@ dependencies:
         - s3fs
         - netCDF4
         - h5netcdf
+        - cartopy
