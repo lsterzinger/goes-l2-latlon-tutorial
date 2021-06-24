@@ -2,7 +2,7 @@
 
 Author: Lucas Sterzinger | lsterzinger@ucdavis.edu |  [Follow me on Twitter](https://twitter.com/lucassterzinger)
 
-This tutorial is paired with a medium post that [can be found here]() (and contains more detail on each step).
+This tutorial is paired with a medium post that [can be found here](https://lsterzinger.medium.com/add-lat-lon-coordinates-to-goes-16-goes-17-l2-data-and-plot-with-cartopy-27f07879157f) (and contains more detail on each step).
 
 A notebook saved with all the outputs/datasets/plots (tutorial-with-outputs.ipynb) can be accessed at 
 
